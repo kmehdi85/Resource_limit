@@ -4,8 +4,7 @@ Resource_limit
 For limiting the resources for a user in linux system
 
 1. Change the user to be root
-2. Run the script with the below command
-	/usr/src/install_grsec.sh 
+2. Run the script install_grsec.sh 
 3. During script running Kernel configuration  steps need to be followed as below
    a. Scroll down and select Security options and hit enter
    b. Type space bar twice for enabling Grsecurity and scroll down and select Customize Configuration  and hit enter 
